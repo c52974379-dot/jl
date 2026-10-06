@@ -1,0 +1,7 @@
+# robots.txt — Awakening Culture Technology
+User-agent: *
+Allow: /
+Disallow: /cart.html
+Disallow: /*/cart.html
+
+Sitemap: https://www.awakening-culture.com/sitemap.xml
