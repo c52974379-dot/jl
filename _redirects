@@ -1,5 +1,0 @@
-# Netlify redirects — 404 handling and clean URLs
-/*    /404.html   404
-
-# Optional: force the canonical host (enable after DNS is live)
-# http://www.awakening-culture.com/*   https://www.awakening-culture.com/:splat   301!
